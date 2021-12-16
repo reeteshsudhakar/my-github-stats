@@ -1,11 +1,15 @@
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+<h1 align="center">
+   <a href="https://github.com/jstrieb/github-stats"> 
+      <p><strong>GitHub Stats Visualization</strong></p>
+   </a>
+</h1>
 
-<a href="https://github.com/jstrieb/github-stats">
-
-![](https://github.com/reeteshsudhakar/my-github-stats/blob/master/generated/overview.svg)
-![](https://github.com/reeteshsudhakar/my-github-stats/blob/master/generated/languages.svg)
-
-</a>
+<div class="row" align="center">
+   <a href="https://github.com/jstrieb/github-stats">
+      <img src="https://github.com/reeteshsudhakar/my-github-stats/blob/master/generated/overview.svg">
+      <img src="https://github.com/reeteshsudhakar/my-github-stats/blob/master/generated/languages.svg">
+   </a>
+</div>
 
 Generate visualizations of GitHub user and repository statistics using GitHub
 Actions.
